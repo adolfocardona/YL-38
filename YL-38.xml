@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\a-car\Documents\KiCad\6.0\projects\YL-38\YL-38.kicad_sch</source>
+    <date>11/15/2022 7:26:00 PM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>YL-38.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>yl_38.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100NF</value>
+      <footprint>OPL_Capacitor:C0603</footprint>
+      <fields>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_" description=""/>
+      <property name="MPN" value="CC0603KRX7R9BB104"/>
+      <property name="SKU" value="302010138"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>78ca1d8c-0cc9-471e-8f0a-4d303cf46cfa</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100NF</value>
+      <footprint>OPL_Capacitor:C0603</footprint>
+      <fields>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <libsource lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_" description=""/>
+      <property name="MPN" value="CC0603KRX7R9BB104"/>
+      <property name="SKU" value="302010138"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>e839b460-3d8a-46f4-96ec-4aa5b81f8e83</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>OPL_Optoelectronics:LED-0603</footprint>
+      <fields>
+        <field name="MPN">19-217-R6C-AL1M2VY-3T</field>
+        <field name="SKU">304090042</field>
+      </fields>
+      <libsource lib="OPL_Optoelectronics" part="LED-SMD-RED-DIFFUSED_0603_" description=""/>
+      <property name="MPN" value="19-217-R6C-AL1M2VY-3T"/>
+      <property name="SKU" value="304090042"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>6f3c28de-8917-41e0-8dad-d61cca7b28d8</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>OPL_Optoelectronics:LED-0603</footprint>
+      <fields>
+        <field name="MPN">19-217-R6C-AL1M2VY-3T</field>
+        <field name="SKU">304090042</field>
+      </fields>
+      <libsource lib="OPL_Optoelectronics" part="LED-SMD-RED-DIFFUSED_0603_" description=""/>
+      <property name="MPN" value="19-217-R6C-AL1M2VY-3T"/>
+      <property name="SKU" value="304090042"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>f90bf57f-8018-425b-b29c-0ecea957db8b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IN</value>
+      <footprint>OPL_Connector:H2-2.54</footprint>
+      <fields>
+        <field name="MPN">P125-1102A0BS116A1</field>
+        <field name="SKU">320020016</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_2P-2.54_" description=""/>
+      <property name="MPN" value="P125-1102A0BS116A1"/>
+      <property name="SKU" value="320020016"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>dbca36f1-3ce9-4899-bdbe-176544167512</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>OUT</value>
+      <footprint>OPL_Connector:H4-2.54</footprint>
+      <fields>
+        <field name="MPN">P125-1104A0BS116A1</field>
+        <field name="SKU">320020017</field>
+      </fields>
+      <libsource lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_4P-2.54_" description=""/>
+      <property name="MPN" value="P125-1104A0BS116A1"/>
+      <property name="SKU" value="320020017"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>1aa6c5b2-6b20-40b8-ad5e-2bb1cec7e5e8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-0710KL</field>
+        <field name="SKU">301010299</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-10K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-0710KL"/>
+      <property name="SKU" value="301010299"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>8de9a660-7a8e-4c7f-80e1-d8a8f024b6e0</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-0710KL</field>
+        <field name="SKU">301010299</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-10K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-0710KL"/>
+      <property name="SKU" value="301010299"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>968201b0-987f-4695-8b9a-db1321ce687b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-071KL</field>
+        <field name="SKU">301010298</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-1K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-071KL"/>
+      <property name="SKU" value="301010298"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>a8cb460f-b963-400c-84a3-a7c777a52998</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>OPL_Resistor:R0603</footprint>
+      <fields>
+        <field name="MPN">RC0603FR-071KL</field>
+        <field name="SKU">301010298</field>
+      </fields>
+      <libsource lib="OPL_Resistor" part="SMD-RES-1K-1%-1_10W_0603_" description=""/>
+      <property name="MPN" value="RC0603FR-071KL"/>
+      <property name="SKU" value="301010298"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>50ced9ab-d9ab-460b-985f-e1419f8ef520</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM293D</value>
+      <footprint>OPL_Integrated_Circuit:SOIC8-1.27-5X4MM</footprint>
+      <fields>
+        <field name="MPN">LM293D</field>
+        <field name="SKU">310020016</field>
+      </fields>
+      <libsource lib="OPL_Integrated_Circuit" part="AMPLIFIER-LM293D_SOIC8_" description=""/>
+      <property name="MPN" value="LM293D"/>
+      <property name="SKU" value="310020016"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>1fff7b8e-a78a-4943-a484-c72c6beae0e1</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>POT-10K</value>
+      <footprint>TRIM_3362P-1-103LF:TRIM_3362P-1-103LF</footprint>
+      <fields>
+        <field name="MF">Bourns</field>
+        <field name="MP">3362P-1-205LF</field>
+        <field name="PARTREV">08/26/10</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+      </fields>
+      <libsource lib="3362P-1-103LF" part="3362P-1-103LF" description=""/>
+      <property name="MP" value="3362P-1-205LF"/>
+      <property name="PARTREV" value="08/26/10"/>
+      <property name="MF" value="Bourns"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="Sheetname" value="YL-38"/>
+      <property name="Sheetfile" value="File: yl_38.kicad_sch"/>
+      <sheetpath names="/YL-38/" tstamps="/e0500621-68fb-489c-a8a9-ca19c0d766e3/"/>
+      <tstamps>aa6817df-e4eb-41f7-9017-21ad45d6fa63</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="3362P-1-103LF" part="3362P-1-103LF">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">3362P-1-103LF</field>
+        <field name="Footprint">TRIM_3362P-1-103LF</field>
+        <field name="MP">3362P-1-205LF</field>
+        <field name="PARTREV">08/26/10</field>
+        <field name="MF">Bourns</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Capacitor" part="CERAMIC-100NF-50V-10%-X7R_0603_">
+      <footprints>
+        <fp>*C0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CERAMIC-100NF-50V-10%-X7R_0603_</field>
+        <field name="MPN">CC0603KRX7R9BB104</field>
+        <field name="SKU">302010138</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_2P-2.54_">
+      <footprints>
+        <fp>*H2-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DIP-BLACK-MALE-HEADER-VERT_2P-2.54_</field>
+        <field name="MPN">P125-1102A0BS116A1</field>
+        <field name="SKU">320020016</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Connector" part="DIP-BLACK-MALE-HEADER-VERT_4P-2.54_">
+      <footprints>
+        <fp>*H4-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DIP-BLACK-MALE-HEADER-VERT_4P-2.54_</field>
+        <field name="MPN">P125-1104A0BS116A1</field>
+        <field name="SKU">320020017</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="bidirectional"/>
+        <pin num="2" name="P$2" type="bidirectional"/>
+        <pin num="3" name="P$3" type="bidirectional"/>
+        <pin num="4" name="P$4" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Integrated_Circuit" part="AMPLIFIER-LM293D_SOIC8_">
+      <footprints>
+        <fp>*SOIC8-1.27-5X4MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMPLIFIER-LM293D_SOIC8_</field>
+        <field name="MPN">LM293D</field>
+        <field name="SKU">310020016</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1OUT" type="output"/>
+        <pin num="2" name="1IN-" type="input"/>
+        <pin num="3" name="1IN+" type="input"/>
+        <pin num="4" name="GND" type="power_out"/>
+        <pin num="5" name="2IN+" type="input"/>
+        <pin num="6" name="2IN-" type="input"/>
+        <pin num="7" name="2OUT" type="output"/>
+        <pin num="8" name="VCC" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Optoelectronics" part="LED-SMD-RED-DIFFUSED_0603_">
+      <footprints>
+        <fp>*LED-0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-SMD-RED-DIFFUSED_0603_</field>
+        <field name="MPN">19-217-R6C-AL1M2VY-3T</field>
+        <field name="SKU">304090042</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Resistor" part="SMD-RES-10K-1%-1_10W_0603_">
+      <footprints>
+        <fp>*R0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">SMD-RES-10K-1%-1_10W_0603_</field>
+        <field name="MPN">RC0603FR-0710KL</field>
+        <field name="SKU">301010299</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OPL_Resistor" part="SMD-RES-1K-1%-1_10W_0603_">
+      <footprints>
+        <fp>*R0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">SMD-RES-1K-1%-1_10W_0603_</field>
+        <field name="MPN">RC0603FR-071KL</field>
+        <field name="SKU">301010298</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="3362P-1-103LF">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/3362P-1-103LF.kicad_sym</uri>
+    </library>
+    <library logical="OPL_Capacitor">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Capacitor.lib</uri>
+    </library>
+    <library logical="OPL_Connector">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Connector.lib</uri>
+    </library>
+    <library logical="OPL_Integrated_Circuit">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Integrated_Circuit.lib</uri>
+    </library>
+    <library logical="OPL_Optoelectronics">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Optoelectronics.lib</uri>
+    </library>
+    <library logical="OPL_Resistor">
+      <uri>C:/Users/a-car/Documents/KiCad/6.0/symbols/OPL_Resistor.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="A0">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="J2" pin="1" pinfunction="P$1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="1IN+" pintype="input"/>
+    </net>
+    <net code="2" name="D0">
+      <node ref="J2" pin="2" pinfunction="P$2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1OUT" pintype="output"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J2" pin="3" pinfunction="P$3" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_out"/>
+      <node ref="VR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="1IN-" pintype="input"/>
+      <node ref="VR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="VCC">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="P$4" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_out"/>
+      <node ref="VR1" pin="3" pintype="passive"/>
+    </net>
+    <net code="8" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="2IN+" pintype="input+no_connect"/>
+    </net>
+    <net code="9" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="2IN-" pintype="input+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="2OUT" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

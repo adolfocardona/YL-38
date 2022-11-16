@@ -1,0 +1,72 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a486176e-100e-415a-947e-82a060afe1d4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 12.7 12.7) (size 271.78 152.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid e0500621-68fb-489c-a8a9-ca19c0d766e3)
+    (property "Sheet name" "YL-38" (id 0) (at 12.7 11.9884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "yl_38.kicad_sch" (id 1) (at 12.7 165.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/0a209bb9-3568-4cda-b85c-bfdc198d5c67"
+      (reference "#PWR01") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/54850b2c-8c36-4a62-8905-cb7a923bc901"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/78ca1d8c-0cc9-471e-8f0a-4d303cf46cfa"
+      (reference "C1") (unit 1) (value "100NF") (footprint "OPL_Capacitor:C0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/e839b460-3d8a-46f4-96ec-4aa5b81f8e83"
+      (reference "C2") (unit 1) (value "100NF") (footprint "OPL_Capacitor:C0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/6f3c28de-8917-41e0-8dad-d61cca7b28d8"
+      (reference "D1") (unit 1) (value "LED") (footprint "OPL_Optoelectronics:LED-0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/f90bf57f-8018-425b-b29c-0ecea957db8b"
+      (reference "D2") (unit 1) (value "LED") (footprint "OPL_Optoelectronics:LED-0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/dbca36f1-3ce9-4899-bdbe-176544167512"
+      (reference "J1") (unit 1) (value "IN") (footprint "OPL_Connector:H2-2.54")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/1aa6c5b2-6b20-40b8-ad5e-2bb1cec7e5e8"
+      (reference "J2") (unit 1) (value "OUT") (footprint "OPL_Connector:H4-2.54")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/8de9a660-7a8e-4c7f-80e1-d8a8f024b6e0"
+      (reference "R1") (unit 1) (value "10K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/968201b0-987f-4695-8b9a-db1321ce687b"
+      (reference "R2") (unit 1) (value "10K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/a8cb460f-b963-400c-84a3-a7c777a52998"
+      (reference "R3") (unit 1) (value "1K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/50ced9ab-d9ab-460b-985f-e1419f8ef520"
+      (reference "R4") (unit 1) (value "1K") (footprint "OPL_Resistor:R0603")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/1fff7b8e-a78a-4943-a484-c72c6beae0e1"
+      (reference "U1") (unit 1) (value "LM293D") (footprint "OPL_Integrated_Circuit:SOIC8-1.27-5X4MM")
+    )
+    (path "/e0500621-68fb-489c-a8a9-ca19c0d766e3/aa6817df-e4eb-41f7-9017-21ad45d6fa63"
+      (reference "VR1") (unit 1) (value "POT-10K") (footprint "TRIM_3362P-1-103LF:TRIM_3362P-1-103LF")
+    )
+  )
+)
